@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HurreconR"]
 	path = HurreconR
 	url = https://github.com/hurrecon-model/hurreconr
-	shallow = true
-	registered = true
